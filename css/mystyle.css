@@ -1,0 +1,57 @@
+section h2.section-heading2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #13D178;
+}
+
+.text-white{
+	color: #fff;
+}
+
+.text-primary2{
+	color: #13D178;
+}
+
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #9A9A9A!important
+}
+
+.w3-round-small {
+    border-radius: 2px
+}
+
+.w3-round, .w3-round-medium {
+    border-radius: 4px
+}
+
+.w3-round-large {
+    border-radius: 8px
+}
+
+.w3-round-xlarge {
+    border-radius: 16px
+}
+
+.w3-round-xxlarge {
+    border-radius: 32px
+}
+
+.w3-container, .w3-panel {
+    padding: 0.01em 16px
+}
+
+.w3-panel {
+    margin-top: 16px;
+    margin-bottom: 16px
+}
+
+.w3-center {
+    text-align: center!important
+}
+
+.w3-teal, .w3-hover-teal:hover {
+    color: #fff!important;
+    background-color: #009688!important
+}
